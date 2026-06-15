@@ -98674,15 +98674,15 @@
 				},
 				{
 					"type": "BOOL",
-					"name": "lockX"
+					"name": "p8"
+				},
+				{
+					"type": "int",
+					"name": "ikFlags"
 				},
 				{
 					"type": "BOOL",
-					"name": "lockY"
-				},
-				{
-					"type": "BOOL",
-					"name": "lockZ"
+					"name": "p10"
 				}
 			],
 			"return_type": "void",
