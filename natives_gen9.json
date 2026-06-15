@@ -36439,7 +36439,7 @@
 					"name": "p2"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p3"
 				}
 			],
