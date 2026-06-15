@@ -34482,7 +34482,7 @@
 					"name": "mask"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p3"
 				}
 			],
