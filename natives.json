@@ -79695,7 +79695,7 @@
 					"name": "yaw"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p7"
 				}
 			],
