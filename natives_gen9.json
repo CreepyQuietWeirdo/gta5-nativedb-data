@@ -60137,8 +60137,8 @@
 					"name": "z"
 				},
 				{
-					"type": "float",
-					"name": "p5"
+					"type": "const char*",
+					"name": "animDict"
 				},
 				{
 					"type": "const char*",
