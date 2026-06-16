@@ -119551,7 +119551,7 @@
 					"name": "weaponHash"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p2"
 				}
 			],
