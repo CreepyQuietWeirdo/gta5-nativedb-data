@@ -27231,7 +27231,7 @@
 					"name": "iconEnum"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "stepVal"
 				},
 				{
