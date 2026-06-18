@@ -100492,12 +100492,12 @@
 					"name": "targetHeading"
 				},
 				{
-					"type": "float",
-					"name": "maxZ"
+					"type": "int",
+					"name": "maxHeight"
 				},
 				{
-					"type": "float",
-					"name": "minZ"
+					"type": "int",
+					"name": "minHeight"
 				},
 				{
 					"type": "BOOL",
