@@ -55782,7 +55782,7 @@
 					"name": "heading"
 				},
 				{
-					"type": "BOOL",
+					"type": "int",
 					"name": "p4"
 				},
 				{
