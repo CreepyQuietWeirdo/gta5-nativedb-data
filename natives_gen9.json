@@ -106039,8 +106039,8 @@
 					"name": "ped"
 				},
 				{
-					"type": "BOOL",
-					"name": "toggle"
+					"type": "int",
+					"name": "duration"
 				}
 			],
 			"return_type": "void",
